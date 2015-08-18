@@ -1,3 +1,9 @@
+#Bot by @yhoyhoj
+#Free of rights
+#Use it as you please but any attribution is welcome :
+#Link to my repo : https://github.com/yhoyhoj/euphoria.bots
+
+
 import sys, basebot, operator, time
 
 #These 2 functions come from basebot.py
